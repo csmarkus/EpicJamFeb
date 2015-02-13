@@ -1,0 +1,12 @@
+Binaries/
+Build/
+Intermediate/
+Saved/
+
+*.filters
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.user
+*.vcxproj
